@@ -1,12 +1,11 @@
 
----
-
-# 🦥 **Preguiçoso**
+# 🦥 **Preguiçoso  - Automatize tudo. Trabalhe menos. Codifique mais**
 > 💡 *“Porque até o código precisa de um tempo pra descansar.”*
 
-![Banner do App](https://firebasestorage.googleapis.com/v0/b/volta-as-aulas-2026.firebasestorage.app/o/action-record%2FChatGPT%20Image%2022%20de%20nov.%20de%202025%2C%2007_28_47%20(2).png?alt=media&token=6efa1c33-7a90-4850-8b71-c8cd5ac6189c)
-
----
+<p align="left">
+  <img src="https://firebasestorage.googleapis.com/v0/b/volta-as-aulas-2026.firebasestorage.app/o/action-record%2FChatGPT%20Image%2022%20de%20nov.%20de%202025%2C%2007_28_47%20(2).png?alt=media&token=6efa1c33-7a90-4850-8b71-c8cd5ac6189c" width="80" /> 
+  <img src="https://firebasestorage.googleapis.com/v0/b/volta-as-aulas-2026.firebasestorage.app/o/action-record%2FChatGPT%20Image%2022%20de%20nov.%20de%202025%2C%2014_25_55%20(2).png?alt=media&token=39c17e6b-51ce-42dd-893f-d472d2d9e75f" width="80" />
+</p>
 
 ## 🎮 O que é o Preguiçoso?
 
@@ -34,8 +33,9 @@ Ele faz o trabalho pesado enquanto você toma café ☕ (ou dorme 😴).
 
 👾 **Easter Eggs**
 - 💤 *Modo Soneca*: segure o logo e veja o sistema dormir.  
-- 🧠 *Chat Secreto*: pressione “Automatize tudo” e converse com a IA preguiçosa.  
-- 🕹️ *Preguiçoso Run*: digite `preguicoso.run()` no console e descubra.
+- 🧠 *Chat Secreto*: pressione “bloco enigma” por 5 segundos e converse com a IA preguiçosa.  
+- 🕹️ *Preguiçoso Run*: encontre o "ovo" na tela, ou digite `preguicoso.run()` no console e descubra.
+- 🎉  *Festa Rave*:(↑ ↑ ↓ ↓ ← → ← → b a) 
 
 ---
 
@@ -63,7 +63,7 @@ Ele faz o trabalho pesado enquanto você toma café ☕ (ou dorme 😴).
 
 ![Pixel Visual](https://firebasestorage.googleapis.com/v0/b/volta-as-aulas-2026.firebasestorage.app/o/action-record%2FChatGPT%20Image%2022%20de%20nov.%20de%202025%2C%2014_25_55%20(2).png?alt=media&token=39c17e6b-51ce-42dd-893f-d472d2d9e75f)
 
-🕹️ Estilo: **Dev retrô-neon, pixel vibes e humor hacker.**  
+🕹️ Estilo:(berimbal) **Dev-neon, pixel vibes e humor hacker.**  
 🎨 Cores oficiais:
 - **Roxo Fundo:** `#1a0033`
 - **Azul Neon:** `#00baff`
@@ -74,9 +74,33 @@ Ele faz o trabalho pesado enquanto você toma café ☕ (ou dorme 😴).
 - JetBrains Mono
 - IBM Plex Mono
 
-> “Tudo é mais bonito com brilho neon e preguiça automatizada.”
+
+## 🧩 Estrutura do Projeto
+
+Preguiçoso/
+├── frontend/ → UI retrô-neon (Tailwind + JS)
+├── backend/ → Executor (Node + Cloud Run)
+├── chrome-extension/ → Recorder (Manifest v3)
+└── README.md
+
+## 🧰 Stack Técnica
+
+| Categoria | Ferramentas |
+|------------|-------------|
+| Frontend | TailwindCSS + Vanilla JS |
+| Backend | Node.js + databasemart |
+| Extensão | Chrome Manifest v3 |
+| Design | Pixel Art + Photoshop |
 
 ---
 
-## 🧩 Estrutura do Projeto
+## 🧑‍💻 Rodando Localmente
+
+```bash
+git clone https://github.com/lbsanchesweb-wq/preguicoso.git
+cd preguicoso
+npm install
+npm start
+
+Acesse http://localhost:3000 e veja o Preguiçoso trabalhar.
 
