@@ -1,0 +1,5 @@
+{
+  "name": "Preguiçoso-action-record",
+  "description": "O agente de automação que faz por você tudo o que dá preguiça de fazer manualmente. Automatize fluxos, agende tarefas e gere scripts Playwright.",
+  "requestFramePermissions": []
+}
